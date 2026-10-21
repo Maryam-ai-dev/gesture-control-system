@@ -193,7 +193,7 @@ Pytest — automated testing
 
 Clone the repository:
 ```bash
-git clone https://github.com/Maryy-333/gesture-control-system
+git clone https://github.com/Maryam-ai-dev/gesture-control-system
 cd gesture-control-system
 
 ## Create a virtual environment:
